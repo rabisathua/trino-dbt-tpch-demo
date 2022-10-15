@@ -16,4 +16,4 @@ sandbox-galaxy:
       session_properties:
         query_max_run_time: 5d
         exchange_compression: True
-  target: dev
+  target: dev #this is for dev
